@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Start Again",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-04T13:36:14.053680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Could We Start Again, Please?",
+      "artist": "Andrew Lloyd Webber feat. 'Jesus Christ Superstar' 1996 London Cast, Joanna Ampil & Jonathan Hart",
+      "has_synced": true,
+      "path": "select/01_Could_We_Start_Again,_Please_Andrew_Lloyd_Webber_feat._'Jesus_Christ_Superstar'_1996_London_Cast,_Joanna_Ampi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Could We Start Again Please？",
+      "artist": "Andrew Lloyd Webber",
+      "has_synced": true,
+      "path": "select/02_Could_We_Start_Again_Please_Andrew_Lloyd_Webber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Birdy",
+      "has_synced": true,
+      "path": "select/03_Start_Again_Birdy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Rob Simonsen feat. Faux Fix & Elena Tonra",
+      "has_synced": false,
+      "path": "select/04_Start_Again_Rob_Simonsen_feat._Faux_Fix_&_Elena_Tonra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Faux Fix",
+      "has_synced": false,
+      "path": "select/05_Start_Again_Faux_Fix.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Death Cab for Cutie",
+      "has_synced": false,
+      "path": "select/06_Start_Again_Death_Cab_for_Cutie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Start Again (feat. Logic)",
+      "artist": "OneRepublic feat. Logic",
+      "has_synced": true,
+      "path": "select/07_Start_Again_(feat._Logic)_OneRepublic_feat._Logic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "OneRepublic feat. Logic",
+      "has_synced": true,
+      "path": "select/08_Start_Again_OneRepublic_feat._Logic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "OneRepublic, Logic",
+      "has_synced": true,
+      "path": "select/09_Start_Again_OneRepublic,_Logic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/10_Start_Again_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Start Again (feat. Logic)",
+      "artist": "OneRepublic, Logic",
+      "has_synced": true,
+      "path": "select/11_Start_Again_(feat._Logic)_OneRepublic,_Logic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Vanessa Williams",
+      "has_synced": false,
+      "path": "select/12_Start_Again_Vanessa_Williams.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Duncan Sheik",
+      "has_synced": true,
+      "path": "select/13_Start_Again_Duncan_Sheik.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Counting Crows",
+      "has_synced": true,
+      "path": "select/14_Start_Again_Counting_Crows.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Counting Crows",
+      "has_synced": true,
+      "path": "select/15_Start_Again_Counting_Crows.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Start Again (Juventa Remix)",
+      "artist": "Will Holland featuring Jeza feat. Jeza",
+      "has_synced": false,
+      "path": "select/16_Start_Again_(Juventa_Remix)_Will_Holland_featuring_Jeza_feat._Jeza.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Red",
+      "has_synced": true,
+      "path": "select/17_Start_Again_Red.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Start Again",
+      "artist": "Red",
+      "has_synced": true,
+      "path": "select/18_Start_Again_Red.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Start Again",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Start_Again_ONE_OK_ROCK.txt"
+    }
+  ]
+}
